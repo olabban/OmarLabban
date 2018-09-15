@@ -66,11 +66,11 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "olabban@mit.edu"
+  address = "Building 7 Room 034, Massachusetts Institute of Technology, Cambridge, MA 02139, USA"
+  office_hours = ""
+  phone = "617 800 4675"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
