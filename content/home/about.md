@@ -17,19 +17,19 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Mechanical Engineering"
+  institution = "Massachusetts Institute of Technology"
+  year = 2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
+  course = "S.M. in Mechanical Engineering"
   institution = "Massachusetts Institute of Technology"
-  year = 2009
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Sc. in Mechanical Engineering"
+  institution = "American University in Dubai"
+  year = 2014
  
 +++
 
