@@ -25,7 +25,7 @@ publication = "*Desalination*"
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "Paper1.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
