@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Design and Modeling of Novel Low-Pressure Nanofiltration Hollow Fiber Modules for Water Softening and Desalination Pretreatment"
 
 # Date first published.
-date = "2013-07-01"
+date = "2018-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Omar Labban", "Tzyy Haur Chong", "John H. Lienhard"]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,13 @@ authors = ["First author's name", "Second author's name"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *Desalination*. You may use *Markdown* for italics etc."
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+abstract = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,8 +37,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
-url_preprint = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0011916417310020?via%3Dihub"
+url_preprint = "https://dspace.mit.edu/handle/1721.1/104285"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -63,6 +61,5 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
 
 +++
