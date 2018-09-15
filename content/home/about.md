@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Energy & Water",
     "Thermal Sciences",
-    "Membrane Technology & Chemical Separation",
+    "Chemical Separation",
     "Analytics & Machine Learnng"
   ]
 
