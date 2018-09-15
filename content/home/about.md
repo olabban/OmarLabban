@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Energy & Water",
-    "Thermal Sciences",
+    "Thermal Sciences & Engineering",
     "Product Design",
+    "R&D",
     "Machine Learning",
     "Analytics"
   ]
