@@ -19,7 +19,7 @@ authors = ["Omar Labban", "Tzyy Haur Chong", "John H. Lienhard"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Desalination*. You may use *Markdown* for italics etc."
+publication = "In *Desalination*."
 
 # Abstract and optional shortened version.
 abstract = ""
