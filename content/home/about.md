@@ -12,8 +12,9 @@ weight = 5
   interests = [
     "Energy & Water",
     "Thermal Sciences",
-    "Chemical Separation",
-    "Analytics & Machine Learnng"
+    "Product Design",
+    "Machine Learning",
+    "Analytics"
   ]
 
 # List your qualifications (such as academic degrees).
