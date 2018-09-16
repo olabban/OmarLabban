@@ -8,13 +8,11 @@ date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Selected Design Project"
-subtitle = ""
+subtitle = "Hydrofoil Assisted Unmanned Surface Vehicle"
 
 # Order that this section will appear in.
 weight = 15.5
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-![alternative text for search engines](/img/project.jpg)
+Conducted in a team of three, the selected project's aim was to design, prototype and test a marine vehicle equipped with hydrofoils to lift the vehicle above the water surface, reducing drag. A similar phenomenon is employed when foilboarding!
