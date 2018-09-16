@@ -276,7 +276,7 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "In the News"
+  name = "Press Releases"
   url = "#posts"
   weight = 3
 
@@ -286,7 +286,7 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Awards"
   url = "#teaching"
   weight = 5
 
