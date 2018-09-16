@@ -25,7 +25,7 @@ publication = "*Journal of Membrane Science*"
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "Paper4.jpg"
+image_preview = "Paper4_new.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
