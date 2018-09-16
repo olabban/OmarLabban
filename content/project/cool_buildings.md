@@ -1,5 +1,5 @@
 +++
-title = "Cool_buildings"
+title = "Cooling buildings worldwide"
 date = 2018-09-16T17:52:11-04:00
 draft = false
 
@@ -8,10 +8,10 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "AAA"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "logo.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://news.mit.edu/2018/mit-researchers-energy-efficient-systems-cooling-buildings-worldwide-0711"
