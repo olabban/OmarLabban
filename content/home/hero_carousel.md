@@ -48,7 +48,7 @@ height = "600px"
 [[item]]
   title = "Prototype Testing"
   content = "![alternative text for search engines](/img/project3.jpg)"
-  align = "center"
+  align = "right"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
