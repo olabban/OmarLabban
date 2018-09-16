@@ -1,8 +1,8 @@
 +++
-title = "Relating transport modeling to nanofiltration membrane fabrication: Navigating the permeability-selectivity trade-off in desalination pretreatment"
+title = "Fundamentals of low-pressure nanofiltration: Membrane characterization, modeling, and understanding the multi-ionic interactions in water softening"
 
 # Date first published.
-date = "2018-05-15"
+date = "2017-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Omar Labban", "Chang Liu" , "Tzyy Haur Chong", "John H. Lienhard"]
@@ -25,7 +25,7 @@ publication = "*Journal of Membrane Science*"
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "Paper2_new.jpg"
+image_preview = "Paper4.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -37,8 +37,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0376738817331617#f0015"
-url_preprint = "https://dspace.mit.edu/handle/1721.1/114293"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0376738816307050"
+url_preprint = "https://dspace.mit.edu/handle/1721.1/105440"
 url_code = ""
 url_dataset = ""
 url_project = ""
