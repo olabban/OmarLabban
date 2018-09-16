@@ -11,22 +11,10 @@ title = "Selected Design Project"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
-
-[[gallery_item]]
-album = "1"
-image = "logo.jpg"
-caption = "HAHHAH"
-    
-[[gallery_item]]
-album = "1"
-image = "logo2.png"
-caption = "Dark theme"
+weight = 15.5
 
 +++
 
 This is an example of using the *custom* widget to create your own homepage section.
 
-{{< gallery album="1" >}}
-
-![alternative text for search engines](/img/logo2.png)
+![alternative text for search engines](/img/project.jpg)
