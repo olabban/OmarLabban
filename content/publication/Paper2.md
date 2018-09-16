@@ -1,11 +1,11 @@
 +++
-title = "Relating transport modeling to nanofiltration membrane fabrication: Navigating the permeability-selectivity trade-off in desalination pretreatment"
+title = "Design and Modeling of Novel Low-Pressure Nanofiltration Hollow Fiber Modules for Water Softening and Desalination Pretreatment"
 
 # Date first published.
-date = "2018-05-015"
+date = "2018-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Omar Labban", "Chang Liu", "Tzyy Haur Chong", "John H. Lienhard"]
+authors = ["Omar Labban", "Tzyy Haur Chong", "John H. Lienhard"]
 
 # Publication type.
 # Legend:
@@ -19,13 +19,13 @@ authors = ["Omar Labban", "Chang Liu", "Tzyy Haur Chong", "John H. Lienhard"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Membrane Science*"
+publication = "*Desalination*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "Paper2.jpg"
+image_preview = "Paper1.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -37,8 +37,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0376738817331617"
-url_preprint = "https://dspace.mit.edu/handle/1721.1/114293"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0011916417310020?via%3Dihub"
+url_preprint = "https://dspace.mit.edu/handle/1721.1/104285"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -60,6 +60,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "headers/bubbles-wide.jpg"
 
 +++
