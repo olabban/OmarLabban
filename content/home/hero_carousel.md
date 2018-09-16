@@ -19,7 +19,7 @@ height = "600px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Prototype Vessel"
-  content = "![alternative text for search engines](/img/project.jpg)"
+  content = "![alternative text for search engines](/img/project_new.jpg)"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
