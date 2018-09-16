@@ -4,9 +4,9 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = false
+active = true
 
-title = ""
+title = "Awards"
 subtitle = ""
 
 # Order that this section will appear in.
