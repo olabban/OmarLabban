@@ -19,18 +19,18 @@ weight = 20
   icon = "files-o"
   icon_pack = "fa"
   name = "Rasikbhai L. Meswani Fellowship for Water Solutions"
-  description = ""
+  description = "MIT"
   
 [[feature]]
   icon = "pencil"
   icon_pack = "fa"
-  name = "MIT Pappalardo Fellowship"
-  description = ""
+  name = "Pappalardo Fellowship"
+  description = "MIT"
   
 [[feature]]
   icon = "pencil"
   icon_pack = "fa"
-  name = "AUD Undergraduate Program Award & Valedictorian Scholarship"
-  description = ""
+  name = "Undergraduate Program Award & Valedictorian Scholarship"
+  description = "AUD"
 
 +++
