@@ -2,7 +2,7 @@
 title = "Next-generation HVAC: Prospects for and limitations of desiccant and membrane-based dehumidification and cooling"
 
 # Date first published.
-date = "2017-08-015"
+date = "2017-08-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Omar Labban", "Tianyi Chen", "Ahmed F. Ghoniem", "John H. Lienhard", "Leslie K. Norford"]
