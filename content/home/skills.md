@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Awards"
+title = "Selected Awards"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,13 +18,19 @@ weight = 20
 [[feature]]
   icon = "files-o"
   icon_pack = "fa"
-  name = "Data Driven"
-  description = "..."
+  name = "Rasikbhai L. Meswani Fellowship for Water Solutions"
+  description = ""
   
 [[feature]]
   icon = "pencil"
   icon_pack = "fa"
-  name = "Math"
-  description = "..."
+  name = "MIT Pappalardo Fellowship"
+  description = ""
+  
+[[feature]]
+  icon = "pencil"
+  icon_pack = "fa"
+  name = "AUD Undergraduate Program Award & Valedictorian Scholarship"
+  description = ""
 
 +++
