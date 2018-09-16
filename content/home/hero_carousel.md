@@ -37,9 +37,9 @@ height = "600px"
   cta_icon = ""
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = "CAD Model"
+  content = "![alternative text for search engines](/img/project2.png)"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
