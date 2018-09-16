@@ -17,4 +17,4 @@ weight = 60
 
 This is an example of using the *custom* widget to create your own homepage section.
 
-image = logo.jpg
+![alternative text for search engines](/img/logo2.png)
