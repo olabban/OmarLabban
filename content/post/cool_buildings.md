@@ -1,23 +1,31 @@
 +++
 title = "Cool_buildings"
-date = 2018-07-16
+date = 2018-09-16T17:52:11-04:00
 draft = false
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Omar Labban"]
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Sustainability"]
-categories = ["Sustainability"]
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = []
+
+# Project summary to display on homepage.
+summary = "AA"
+
+# Optional image to display on homepage.
+image_preview = "logo.jpg"
+
+# Optional external URL for project (replaces project detail page).
+external_link = "http://news.mit.edu/2018/mit-researchers-energy-efficient-systems-cooling-buildings-worldwide-0711"
+
+# Does the project detail page use math formatting?
+math = false
+
+# Does the project detail page use source code highlighting?
+highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# Use `caption` to display an image caption.
-#   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
-# Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "logo.jpg"
-caption = "An image"
-preview = true
+image = "logo2.png"
+caption = "A caption"
 
 +++
