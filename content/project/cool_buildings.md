@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Sustainability"]
 
 # Project summary to display on homepage.
-summary = "AAA"
+summary = "Analysis points the way to energy-efficient systems that take a location-specific approach to cooling and dehumidifying places where people live and work."
 
 # Optional image to display on homepage.
 image_preview = "logo.jpg"
