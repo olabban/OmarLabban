@@ -25,11 +25,6 @@ weight = 5
   year = 2020
 
 [[education.courses]]
-  course = "Minor in Data Science"
-  institution = "Massachusetts Institute of Technology"
-  year = 2020
-
-[[education.courses]]
   course = "S.M. in Mechanical Engineering"
   institution = "Massachusetts Institute of Technology"
   year = 2016
