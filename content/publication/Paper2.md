@@ -2,10 +2,10 @@
 title = "Design and Modeling of Novel Low-Pressure Nanofiltration Hollow Fiber Modules for Water Softening and Desalination Pretreatment"
 
 # Date first published.
-date = "2018-08-01"
+date = "2018-05-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Omar Labban", "Tzyy Haur Chong", "John H. Lienhard"]
+authors = ["Omar Labban", "Chang Liu" , "Tzyy Haur Chong", "John H. Lienhard"]
 
 # Publication type.
 # Legend:
