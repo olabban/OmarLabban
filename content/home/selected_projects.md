@@ -15,4 +15,4 @@ weight = 15.5
 
 +++
 
-Conducted in a team of three, the selected project's aim was to design, prototype and test a marine vehicle equipped with hydrofoils to lift the vehicle above the water surface, reducing drag. A similar phenomenon is employed when foilboarding!
+Conducted in a team of three, the selected project's aim was to design, prototype and test a marine vehicle with hydrofoils, reducing drag.
