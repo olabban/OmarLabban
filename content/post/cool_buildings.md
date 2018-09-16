@@ -2,7 +2,6 @@
 title = "Cool_buildings"
 date = 2018-07-16
 draft = false
-url = "http://energy.mit.edu/news/cooling-buildings-worldwide/"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Omar Labban"]
 
