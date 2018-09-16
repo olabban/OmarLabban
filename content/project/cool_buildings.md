@@ -14,7 +14,7 @@ summary = ""
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://news.mit.edu/2018/mit-researchers-energy-efficient-systems-cooling-buildings-worldwide-0711"
 
 # Does the project detail page use math formatting?
 math = false
@@ -25,7 +25,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
-caption = ""
+image = "logo.png"
+caption = "A caption"
 
 +++
