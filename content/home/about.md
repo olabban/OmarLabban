@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Energy & Water",
-    "Thermal & Computational Engineering",
+    "Thermal Sciences & Engineering",
     "Product Design",
     "Analytics & Machine Learning"
   ]
@@ -36,4 +36,4 @@ weight = 5
 
 # About Me
 
-Omar Labban is a Ph.D. Candidate in Mechanical Engineering at the Massachusetts Institute of Technology interested in the application of engineering and science to address challenges at the forefront of real-world concerns.
+Omar Labban is a Ph.D. Candidate in Mechanical Engineering interested in the application of science and engineering to challenges at the forefront of real-world concerns.
