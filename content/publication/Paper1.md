@@ -39,13 +39,13 @@ projects = []
 # Links (optional).
 url_pdf = "https://www.sciencedirect.com/science/article/pii/S0011916417310020?via%3Dihub"
 url_preprint = "https://dspace.mit.edu/handle/1721.1/104285"
-url_code = ""
+url_code = "https://www.sciencedirect.com/science/article/pii/S0011916417310020?via%3Dihub"
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.sciencedirect.com/science/article/pii/S0011916417310020?via%3Dihub"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
