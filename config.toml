@@ -6,8 +6,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://www.mit.edu/~olabban/"
-#baseurl = "https://olabban.github.io/"
+#baseurl = "http://www.mit.edu/~olabban/"
+baseurl = "https://olabban.github.io/"
 
 # Title of your site
 title = "Omar Labban"
