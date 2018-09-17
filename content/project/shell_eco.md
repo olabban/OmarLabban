@@ -11,7 +11,7 @@ tags = ["Sustainability"]
 summary = "AUDmobil earns entry into the Shell Eco-marathon competition as the first electric vehicle from the UAE."
 
 # Optional image to display on homepage.
-image_preview = "shell.png"
+image_preview = "Shell.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.dropbox.com/s/lbt2425gc09680p/AUD%20review.png?dl=0"
