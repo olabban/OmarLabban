@@ -18,7 +18,12 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. in Mechanical Engineering (Data Science Minor)"
+  course = "Ph.D. in Mechanical Engineering"
+  institution = "Massachusetts Institute of Technology"
+  year = 2020
+
+[[education.courses]]
+  course = "Minor in Data Science | Concentration in Management"
   institution = "Massachusetts Institute of Technology"
   year = 2020
 
