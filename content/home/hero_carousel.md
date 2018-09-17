@@ -19,22 +19,22 @@ height = "600px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Prototype Vessel"
-  content = "![alternative text for search engines](/img/project_new.jpg)"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "	#555"  # An HTML color value.
-  overlay_img = "project_new.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "project.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "CAD Model"
-  content = "![alternative text for search engines](/img/project2.png)"
+  content = ""
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "project2.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 +++
