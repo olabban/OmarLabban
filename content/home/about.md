@@ -31,11 +31,6 @@ weight = 5
   course = "S.M. in Mechanical Engineering"
   institution = "Massachusetts Institute of Technology"
   year = 2016
-
-[[education.courses]]
-  course = "B.Sc. in Mechanical Engineering"
-  institution = "American University in Dubai"
-  year = 2014
  
 +++
 
