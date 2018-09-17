@@ -37,6 +37,4 @@ weight = 5
 
 # About Me
 
-Omar Labban is a Ph.D. Candidate in Mechanical Engineering at MIT interested in the application of science and engineering across teams and disciplines to problems of real-world concern. His research, supervised by [Professor John H. Lienhard](http://meche.mit.edu/people/faculty/LIENHARD@MIT.EDU), focuses on the intersection of membrane technology with thermal sciences and solid mechanics, targeting challenges in water, energy, and sustainability. 
-
-At MIT, Omar was named a [J-WAFS](https://jwafs.mit.edu) fellow, received a Pappalardo fellowship, and served as the Vice-President of Budget for the [MIT Energy Club](https://www.mitenergyclub.org). Prior to joining MIT, his interests covered product design and computational engineering.
+Omar Labban is a Ph.D. Candidate at MIT interested in the application of science and engineering across teams to problems of real-world concern. His research, supervised by [Professor John H. Lienhard](http://meche.mit.edu/people/faculty/LIENHARD@MIT.EDU), focuses on the intersection of membrane technology with thermal sciences and solid mechanics to address challenges in water, energy, and sustainability. While at MIT, Omar was named a [J-WAFS](https://jwafs.mit.edu) fellow, received a Pappalardo fellowship, and served as the Vice-President of Budget for the [MIT Energy Club](https://www.mitenergyclub.org).
