@@ -14,13 +14,12 @@ weight = 5
     "Thermal Sciences",
     "Computational Engineering",
     "Product Design",
-    "Machine Learning",
-    "Analytics"
+    "Analytics & Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. in Mechanical Engineering"
+  course = "Ph.D. in Mechanical Engineering (Data Science Minor)"
   institution = "Massachusetts Institute of Technology"
   year = 2020
 
