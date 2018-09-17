@@ -28,4 +28,15 @@ height = "600px"
   overlay_img = "project.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
+[[item]]
+  title = "CAD Model"
+  content = ""
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "	#555"  # An HTML color value.
+  overlay_img = "project2_updated.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
 +++
