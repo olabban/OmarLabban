@@ -15,4 +15,4 @@ weight = 15.5
 
 +++
 
-Conducted in a team of three, the project's aim was to design, prototype and test a marine vehicle with hydrofoils, reducing drag.
+In this team project, the objective was to design, prototype and deploy a marine vessel with hydrofoils, reducing overall drag and energy consumption.
