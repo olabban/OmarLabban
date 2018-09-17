@@ -11,7 +11,7 @@ tags = ["Sustainability"]
 summary = "Singalert, a platform relying on social media trends and wind patterns to predict haze, receives the first prize award at the Singapore Environmental Health Hackathon."
 
 # Optional image to display on homepage.
-image_preview = "singalert.png"
+image_preview = "Singalert.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://lae.mit.edu/2016/07/25/hackathon/"
@@ -25,7 +25,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "singalert.png"
+image = "Singalert.png"
 caption = ""
 
 +++
