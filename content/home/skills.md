@@ -19,18 +19,18 @@ weight = 20
   icon = "files-o"
   icon_pack = "fa"
   name = "Rasikbhai L. Meswani Fellowship for Water Solutions"
-  description = "MIT"
+  description = "Massachusetts Institute of Technology"
   
 [[feature]]
   icon = "pencil"
   icon_pack = "fa"
   name = "Pappalardo Fellowship"
-  description = "MIT"
+  description = "Massachusetts Institute of Technology"
   
 [[feature]]
   icon = "pencil"
   icon_pack = "fa"
   name = "Undergraduate Program Award & Valedictorian Scholarship"
-  description = "AUD"
+  description = "American University in Dubai"
 
 +++
