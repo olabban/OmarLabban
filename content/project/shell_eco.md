@@ -14,7 +14,7 @@ summary = "AUDmobil earns entry into the Shell Eco-marathon competition as the f
 image_preview = "shell.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.dropbox.com/s/lbt2425gc09680p/AUD%20review.png?dl=0"
 
 # Does the project detail page use math formatting?
 math = false
