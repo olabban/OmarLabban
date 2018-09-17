@@ -38,4 +38,4 @@ weight = 5
 
 # About Me
 
-Omar Labban is a Ph.D. Candidate in Mechanical Engineering at the Massachusetts Institute of Technology.
+Omar Labban is a Ph.D. Candidate in Mechanical Engineering at the Massachusetts Institute of Technology interested in the application of engineering and science to address challenges at the forefront of real-world concerns.
