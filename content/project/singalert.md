@@ -8,7 +8,7 @@ draft = false
 tags = ["Sustainability"]
 
 # Project summary to display on homepage.
-summary = "Singalert, an app relying on social media trends and wind patterns to predict haze, receives the first prize award at the Singapore Environmental Health Hackathon."
+summary = "Singalert, a platform relying on social media trends and wind patterns to predict haze, receives the first prize award at the Singapore Environmental Health Hackathon."
 
 # Optional image to display on homepage.
 image_preview = "singalert.png"
