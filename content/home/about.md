@@ -36,4 +36,4 @@ weight = 5
 
 # About Me
 
-Omar Labban is a Ph.D. Candidate in Mechanical Engineering interested in the application of science and engineering to challenges at the forefront of real-world concerns.
+Omar Labban is a Ph.D. Candidate in Mechanical Engineering interested in the application of science and engineering to challenges of real-world concern.
