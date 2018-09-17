@@ -20,8 +20,9 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. in Mechanical Engineering"
   institution = "Massachusetts Institute of Technology"
+  institution = "Massachusetts Institute of Technology"
   year = 2020
-Minor in XX
+
 
 [[education.courses]]
   course = "Minor in Data Science | Concentration in Management"
