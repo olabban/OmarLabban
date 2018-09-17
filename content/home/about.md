@@ -21,7 +21,7 @@ weight = 5
   course = "Ph.D. in Mechanical Engineering"
   institution = "Massachusetts Institute of Technology"
   year = 2020
-
+  minor = "XC"
 
 [[education.courses]]
   course = "Minor in Data Science | Concentration in Management"
