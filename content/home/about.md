@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Energy & Water",
-    "Product Development and R&D",
+    "Product Development",
+    "R&D",
     "Analytics & Machine Learning",
     "Computational Engineering"
   ]
